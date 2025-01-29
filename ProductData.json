@@ -1,0 +1,282 @@
+[
+    {
+        "name": "Apple Watch",
+        "price": 778.14,
+        "featured": true,
+        "rating": 4.4,
+        "company": "apple"
+    },
+    {
+        "name": "Galaxy Z Flip",
+        "price": 266.07,
+        "featured": true,
+        "rating": 4.1,
+        "company": "mi"
+    },
+    {
+        "name": "Samsung Monitor",
+        "price": 1457.09,
+        "featured": true,
+        "rating": 4.9,
+        "company": "samsung"
+    },
+    {
+        "name": "HP Spectre x360",
+        "price": 1364.15,
+        "featured": true,
+        "rating": 4.4,
+        "company": "apple"
+    },
+    {
+        "name": "HP EliteBook",
+        "price": 318.47,
+        "featured": false,
+        "rating": 4.8,
+        "company": "apple"
+    },
+    {
+        "name": "Samsung Galaxy S23",
+        "price": 219.91,
+        "featured": true,
+        "rating": 4.5,
+        "company": "HP"
+    },
+    {
+        "name": "Samsung Smart Fridge",
+        "price": 1066.41,
+        "featured": false,
+        "rating": 4.2,
+        "company": "HP"
+    },
+    {
+        "name": "Redmi Note 11",
+        "price": 365.82,
+        "featured": true,
+        "rating": 4.2,
+        "company": "apple"
+    },
+    {
+        "name": "Samsung Monitor",
+        "price": 442.37,
+        "featured": true,
+        "rating": 4.3,
+        "company": "apple"
+    },
+    {
+        "name": "Samsung Fold",
+        "price": 946.37,
+        "featured": true,
+        "rating": 4.6,
+        "company": "HP"
+    },
+    {
+        "name": "iMac",
+        "price": 610.05,
+        "featured": true,
+        "rating": 4.1,
+        "company": "mi"
+    },
+    {
+        "name": "Mi LED TV",
+        "price": 1934.11,
+        "featured": false,
+        "rating": 4.8,
+        "company": "apple"
+    },
+    {
+        "name": "Samsung Monitor",
+        "price": 938.81,
+        "featured": true,
+        "rating": 4.6,
+        "company": "apple"
+    },
+    {
+        "name": "Mac Mini",
+        "price": 641.38,
+        "featured": true,
+        "rating": 4.7,
+        "company": "mi"
+    },
+    {
+        "name": "Samsung Galaxy S23",
+        "price": 1541.04,
+        "featured": false,
+        "rating": 4.0,
+        "company": "samsung"
+    },
+    {
+        "name": "HP LaserJet",
+        "price": 1480.14,
+        "featured": false,
+        "rating": 4.4,
+        "company": "apple"
+    },
+    {
+        "name": "Samsung Monitor",
+        "price": 1809.5,
+        "featured": false,
+        "rating": 4.7,
+        "company": "HP"
+    },
+    {
+        "name": "Samsung Galaxy Tab",
+        "price": 892.88,
+        "featured": false,
+        "rating": 4.2,
+        "company": "apple"
+    },
+    {
+        "name": "Samsung Fold",
+        "price": 1016.19,
+        "featured": false,
+        "rating": 4.2,
+        "company": "mi"
+    },
+    {
+        "name": "Mac Mini",
+        "price": 1542.34,
+        "featured": true,
+        "rating": 4.6,
+        "company": "samsung"
+    },
+    {
+        "name": "Mi Electric Scooter",
+        "price": 740.58,
+        "featured": true,
+        "rating": 4.6,
+        "company": "samsung"
+    },
+    {
+        "name": "HP Omen",
+        "price": 726.31,
+        "featured": false,
+        "rating": 4.3,
+        "company": "mi"
+    },
+    {
+        "name": "HP Chromebook",
+        "price": 916.88,
+        "featured": false,
+        "rating": 4.5,
+        "company": "mi"
+    },
+    {
+        "name": "HP DeskJet",
+        "price": 573.52,
+        "featured": true,
+        "rating": 4.4,
+        "company": "HP"
+    },
+    {
+        "name": "Redmi Pad",
+        "price": 1539.88,
+        "featured": false,
+        "rating": 4.1,
+        "company": "HP"
+    },
+    {
+        "name": "Redmi Note 12",
+        "price": 125.59,
+        "featured": true,
+        "rating": 4.6,
+        "company": "mi"
+    },
+    {
+        "name": "HP DeskJet",
+        "price": 1146.91,
+        "featured": false,
+        "rating": 4.4,
+        "company": "HP"
+    },
+    {
+        "name": "Galaxy Buds",
+        "price": 1733.9,
+        "featured": false,
+        "rating": 4.3,
+        "company": "apple"
+    },
+    {
+        "name": "Mi LED TV",
+        "price": 1634.0,
+        "featured": true,
+        "rating": 4.3,
+        "company": "HP"
+    },
+    {
+        "name": "Redmi Note 11",
+        "price": 296.01,
+        "featured": false,
+        "rating": 4.5,
+        "company": "mi"
+    },
+    {
+        "name": "HP Omen",
+        "price": 1997.97,
+        "featured": true,
+        "rating": 4.7,
+        "company": "samsung"
+    },
+    {
+        "name": "Mi Band 7",
+        "price": 1592.67,
+        "featured": false,
+        "rating": 4.3,
+        "company": "HP"
+    },
+    {
+        "name": "HP EliteBook",
+        "price": 790.21,
+        "featured": true,
+        "rating": 4.3,
+        "company": "samsung"
+    },
+    {
+        "name": "Samsung Galaxy Tab",
+        "price": 1259.89,
+        "featured": false,
+        "rating": 4.3,
+        "company": "mi"
+    },
+    {
+        "name": "HP Pavilion",
+        "price": 1875.41,
+        "featured": true,
+        "rating": 4.2,
+        "company": "apple"
+    },
+    {
+        "name": "Mi Notebook",
+        "price": 116.34,
+        "featured": false,
+        "rating": 4.2,
+        "company": "apple"
+    },
+    {
+        "name": "Samsung Galaxy S23",
+        "price": 349.64,
+        "featured": false,
+        "rating": 4.5,
+        "company": "apple"
+    },
+    {
+        "name": "HP ProBook",
+        "price": 204.62,
+        "featured": false,
+        "rating": 4.9,
+        "company": "HP"
+    },
+    {
+        "name": "Redmi Note 12",
+        "price": 1455.95,
+        "featured": false,
+        "rating": 4.2,
+        "company": "samsung"
+    },
+    {
+        "name": "Samsung Monitor",
+        "price": 615.63,
+        "featured": true,
+        "rating": 4.2,
+        "company": "HP"
+    }
+]
