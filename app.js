@@ -3,8 +3,12 @@ require('dotenv').config({path:"./.env"});
 
 const express=require('express');
 const app=express();
+const morgan = require('morgan')
 const connectDB=require("./db/connect");
+
 let port=process.env.port ||8080;
+
+
 
 const cors = require('cors');
 // Allow requests from your frontend
@@ -15,7 +19,7 @@ app.use(cors({
   credentials: true
 }));
 
-
+app.use(morgan("dev"));
 const product_routes=require("./routes/products");
 
 app.get("/",(req,res)=>{
